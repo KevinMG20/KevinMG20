@@ -1,22 +1,3 @@
-
-
-<!-- ## Hi there 👋
-**KevinMG20/KevinMG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <!-- ## Hi there 👋
 **KevinMG20/KevinMG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hi there! I'm a Computer Systems Engineering student from Mexico, about to graduate. I'm passionate about computing and software development, always eager to learn and improve my skills. I'm currently seeking opportunities to start my professional journey in the software development field. Let's build something amazing together!
+👋 Hi, I'm Kevin Mark Garcia Garcia, a passionate software developer dedicated to building innovative, high-quality solutions that make a difference. My focus is on delivering work that not only meets technical excellence but also resonates with users, ensuring they find value and delight in every interaction. Whether it’s designing sleek interfaces, optimizing performance, or solving complex problems, I approach every challenge with creativity, precision, and a commitment to excellence.
 
 
 ## 🌐 Socials:
